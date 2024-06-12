@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>bases_iris</name>
+<Schema name="bases_iris" id="bases_iris">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="DComIris" type="string"></SimpleField>
+	<SimpleField name="Nom_Iris" type="string"></SimpleField>
+	<SimpleField name="Nom_base" type="string"></SimpleField>
+	<SimpleField name="Adresse" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940020106</SimpleData>
+		<SimpleData name="Nom_Iris">MICOLON 14 JUILLET</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">pl Salvador Allende 94140 ALFORTVILLE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.4144766,48.805082699986251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940040103</SimpleData>
+		<SimpleData name="Nom_Iris">PREVERT</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">1 r Jacques Prévert 94470 BOISSY SAINT LEGER</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.502473600000002,48.754286899986127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940150105</SimpleData>
+		<SimpleData name="Nom_Iris">LA GARENNE</SimpleData>
+		<SimpleData name="Nom_base">Hôpital Privé de Marne la Vallée</SimpleData>
+		<SimpleData name="Adresse">33 r Léon Menu 94360 BRY SUR MARNE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.533271000000003,48.842462999986331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940150106</SimpleData>
+		<SimpleData name="Nom_Iris">LES COTEAUX</SimpleData>
+		<SimpleData name="Nom_base">Hôpital Saint Camille</SimpleData>
+		<SimpleData name="Adresse">2 rue Pères Camilliens 94360 BRY SUR MARNE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.528263100000002,48.833304899986302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940160101</SimpleData>
+		<SimpleData name="Nom_Iris">CENTRE VILLE</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">15 r Marx Dormoy 94230 CACHAN </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.3326086,48.794062099986213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940170501</SimpleData>
+		<SimpleData name="Nom_Iris">CENTRE 1</SimpleData>
+		<SimpleData name="Nom_base">Hopital Prive Paul d'Egine</SimpleData>
+		<SimpleData name="Adresse">4 av Marx Dormoy 94500 CHAMPIGNY SUR MARNE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.514174,48.813123999986267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940171001</SimpleData>
+		<SimpleData name="Nom_Iris">COTEAUX 1</SimpleData>
+		<SimpleData name="Nom_base">Brigade des Sapeurs Pompiers de Paris</SimpleData>
+		<SimpleData name="Adresse">16 rue Dunkerque 94500 CHAMPIGNY SUR MARNE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.530362000000002,48.807937699986248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940171201</SimpleData>
+		<SimpleData name="Nom_Iris">BOIS L'ABBE 1</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">pl Rodin 94500 CHAMPIGNY SUR MARNE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.550075700000002,48.806552599986261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940180108</SimpleData>
+		<SimpleData name="Nom_Iris">ARCHEVECHE</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">26 r Conflans 94220 CHARENTON LE PONT </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.410368200000002,48.822488099986302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940190104</SimpleData>
+		<SimpleData name="Nom_Iris">LE FORT LA MAILLARDE</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">8 r Gén de Gaulle 94430 CHENNEVIERES SUR MARNE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.531989500000002,48.798973799986221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940210101</SimpleData>
+		<SimpleData name="Nom_Iris">MARCHE D INTERET NATIONAL PARIS RUNGIS</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">100 r Tour 94550 RUNGIS COMPLEXE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.360322000000002,48.76240599998615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940210102</SimpleData>
+		<SimpleData name="Nom_Iris">LARUE 1</SimpleData>
+		<SimpleData name="Nom_base">Centre hospitalier spécialisé en pneumologie (CHEVILLY LARUE)</SimpleData>
+		<SimpleData name="Adresse">24 rue albert thuret 94669 CHEVILLY LARUE CEDEX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.335968,48.770558999986164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940210104</SimpleData>
+		<SimpleData name="Nom_Iris">BRETAGNE 1</SimpleData>
+		<SimpleData name="Nom_base">Brigade De Sapeurs Pompiers De Paris (Centre de secours Sévigné)</SimpleData>
+		<SimpleData name="Adresse">382 avenue Stalingrad 94669 CHEVILLY LARUE Cedex </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.368206200000002,48.76297469998616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940210104</SimpleData>
+		<SimpleData name="Nom_Iris">BRETAGNE 1</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">382 av Stalingrad 94550 CHEVILLY LARUE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.368206200000002,48.76297469998616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940210106</SimpleData>
+		<SimpleData name="Nom_Iris">CENTRE</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">pl Nelson Mandela 94550 CHEVILLY LARUE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.360956300000002,48.772289699986175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940220103</SimpleData>
+		<SimpleData name="Nom_Iris">CENTRE OUEST</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">9 av Léon Gourdault 94600 CHOISY LE ROI </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.4062071,48.763421499986165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940220107</SimpleData>
+		<SimpleData name="Nom_Iris">HAUTES BORNES NAVIGATEURS I</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">56 r Jules Vallès 94600 CHOISY LE ROI </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.411006400000002,48.752200899986107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940280201</SimpleData>
+		<SimpleData name="Nom_Iris">LA BRECHE</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">10 r Orme Saint Siméon 94000 CRETEIL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.458999300000002,48.785919099986202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940280207</SimpleData>
+		<SimpleData name="Nom_Iris">L ECHAT</SimpleData>
+		<SimpleData name="Nom_base">Hopital Henri Mondor</SimpleData>
+		<SimpleData name="Adresse">51 av Mar de Lattre de Tassigny 94000 CRÉTEIL </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.453353300000003,48.796593399986222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940280305</SimpleData>
+		<SimpleData name="Nom_Iris">PLAISANCE _ LES TILLEULS</SimpleData>
+		<SimpleData name="Nom_base">Centre Hospitalier Intercommunal de Créteil</SimpleData>
+		<SimpleData name="Adresse">40 av Verdun 94000 CRÉTEIL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.463362000000002,48.796234999986233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940280307</SimpleData>
+		<SimpleData name="Nom_Iris">LES MECHES</SimpleData>
+		<SimpleData name="Nom_base">Hôpital Albert-Chenevier</SimpleData>
+		<SimpleData name="Adresse">40 r Mesly 94000 CRÉTEIL </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.459157000000002,48.788841999986211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940330117</SimpleData>
+		<SimpleData name="Nom_Iris">LE VILLAGE 4</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">26 r Guérin Leroux 94120 FONTENAY SOUS BOIS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.473834800000002,48.850129299986335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940380104</SimpleData>
+		<SimpleData name="Nom_Iris">PETIT ROBINSON 1</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">18 av Jules Gravereaux 94240 HAY LES ROSES (L') </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.331241400000002,48.77749629998619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940410106</SimpleData>
+		<SimpleData name="Nom_Iris">PARMENTIER NORD</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">1 esplanade Georges Marrane 94200 IVRY SUR SEINE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.3911679,48.809976699986258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940410110</SimpleData>
+		<SimpleData name="Nom_Iris">CENTRE VILLE EST</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">pl Marcel Cachin 94200 IVRY SUR SEINE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.390193900000002,48.814043399986261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940420104</SimpleData>
+		<SimpleData name="Nom_Iris">LECLERC</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">1 av Pierre Mendès France 94340 JOINVILLE LE PONT</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.460708700000002,48.812990799986267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940430103</SimpleData>
+		<SimpleData name="Nom_Iris">KREMLIN SAINT GERMAIN</SimpleData>
+		<SimpleData name="Nom_base">Hôpital Bicêtre</SimpleData>
+		<SimpleData name="Adresse">78 rue Général Leclerc 94270 KREMLIN BICÊTRE (LE) </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.356351500000002,48.809961499986251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940460103</SimpleData>
+		<SimpleData name="Nom_Iris">CENTRE_VERT DE MAISON 3</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">70 av République 94700 MAISONS ALFORT </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.4373096,48.804214899986256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940520107</SimpleData>
+		<SimpleData name="Nom_Iris">LA SOUS-PREFECTURE</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">3 av De Lattre de Tassigny 94130 NOGENT SUR MARNE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.483511200000002,48.836324399986324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940520108</SimpleData>
+		<SimpleData name="Nom_Iris">BALTARD</SimpleData>
+		<SimpleData name="Nom_base">Hopital Privé Armand Brillard</SimpleData>
+		<SimpleData name="Adresse">3 av Watteau 94130 NOGENT SUR MARNE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.472653000000002,48.833734999986312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940520111</SimpleData>
+		<SimpleData name="Nom_Iris">LES HAUTS DE NOGENT</SimpleData>
+		<SimpleData name="Nom_base">Pompiers</SimpleData>
+		<SimpleData name="Adresse">14 rte Stalingrad 94130 NOGENT SUR MARNE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.4802117,48.841540699986325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940580112</SimpleData>
+		<SimpleData name="Nom_Iris">LES JONCS MARINS CROIX D'EAU</SimpleData>
+		<SimpleData name="Nom_base">Clinique De L'Orangerie</SimpleData>
+		<SimpleData name="Adresse">8 r Orangerie 94170 PERREUX SUR MARNE (LE) </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.498360000000003,48.851274999986344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940670101</SimpleData>
+		<SimpleData name="Nom_Iris">BEGIN</SimpleData>
+		<SimpleData name="Nom_base">Hôpital d'Intruction des Armées Bégin</SimpleData>
+		<SimpleData name="Adresse">69 av Paris 94163 ST MANDE CEDEX </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.426412000000002,48.845809999986329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940680106</SimpleData>
+		<SimpleData name="Nom_Iris">ADAMVILLE 6</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">42 r Delerue 94100 SAINT MAUR DES FOSSES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.491200600000003,48.795697799986229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940680107</SimpleData>
+		<SimpleData name="Nom_Iris">ADAMVILLE 7</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">av Louis Blanc 94210 VARENNE SAINT HILAIRE (LA) </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.498152400000002,48.793763299986217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940680802</SimpleData>
+		<SimpleData name="Nom_Iris">SAINT-MAUR CRETEIL 2</SimpleData>
+		<SimpleData name="Nom_base">Clinique Gaston Métivet</SimpleData>
+		<SimpleData name="Adresse">48 r Alsace Lorraine 94100 SAINT MAUR DES FOSSÉS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.478211000000003,48.805181999986246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940690102</SimpleData>
+		<SimpleData name="Nom_Iris">OUEST QUARTIER DU PLATEAU</SimpleData>
+		<SimpleData name="Nom_base">Hôpital Esquirol</SimpleData>
+		<SimpleData name="Adresse">14 r Val d'Osne 94410 SAINT MAURICE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.423472000000002,48.821727999986287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940690102</SimpleData>
+		<SimpleData name="Nom_Iris">OUEST QUARTIER DU PLATEAU</SimpleData>
+		<SimpleData name="Nom_base">Hôpital National De Saint-Maurice</SimpleData>
+		<SimpleData name="Adresse">14 r Val d'Osne 94410 SAINT MAURICE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.423472000000002,48.821727999986287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940710106</SimpleData>
+		<SimpleData name="Nom_Iris">LE PLATEAU - PARC</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">48 rte Queue en Brie 94370 SUCY EN BRIE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.529748700000002,48.758530299986141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940730107</SimpleData>
+		<SimpleData name="Nom_Iris">LA PREVOTE</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">77 r Victor Basch 94320 THIAIS </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.3906595,48.762490699986152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940750104</SimpleData>
+		<SimpleData name="Nom_Iris">GROSBOIS</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">r Mandres 94440 VILLECRESNES </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.537422500000002,48.715501099986035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940760104</SimpleData>
+		<SimpleData name="Nom_Iris">MONTS CUCHETS</SimpleData>
+		<SimpleData name="Nom_base">Institut Gustave Roussy (IGR)</SimpleData>
+		<SimpleData name="Adresse">39 r Camille Desmoulins 94800 VILLEJUIF </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.348971000000003,48.796135999986227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940760105</SimpleData>
+		<SimpleData name="Nom_Iris">MONSIVRY</SimpleData>
+		<SimpleData name="Nom_base">Hôpital Paul-Brousse</SimpleData>
+		<SimpleData name="Adresse">12 avenue Paul Vaillant Couturier 94800 VILLEJUIF </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.363404800000002,48.795442099986225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940760114</SimpleData>
+		<SimpleData name="Nom_Iris">HAUTES BRUYERES</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">46 r Verdun 94800 VILLEJUIF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.3536631,48.792210499986219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940760120</SimpleData>
+		<SimpleData name="Nom_Iris">PETITS ORMES</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">r Henri Luisette 94800 VILLEJUIF </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.3693209,48.783701999986199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940780102</SimpleData>
+		<SimpleData name="Nom_Iris">KENNEDY</SimpleData>
+		<SimpleData name="Nom_base">Centre De Secours</SimpleData>
+		<SimpleData name="Adresse">16 av Europe 94190 VILLENEUVE SAINT GEORGES </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.4544166,48.728401999986083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940780103</SimpleData>
+		<SimpleData name="Nom_Iris">HOTEL DE VILLE</SimpleData>
+		<SimpleData name="Nom_base">Centre Hospitalier Intercommunal de Villeneuve Saint Georges</SimpleData>
+		<SimpleData name="Adresse">8 r Vignes 94190 VILLENEUVE SAINT GEORGES </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.450536000000002,48.73158899998608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940780201</SimpleData>
+		<SimpleData name="Nom_Iris">GARE TRIAGE SNCF</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">162 r Paris 94190 VILLENEUVE SAINT GEORGES </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.4469667,48.736322899986085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940780208</SimpleData>
+		<SimpleData name="Nom_Iris">BERNARD DE PALISSY</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">97 av Anatole France 94190 VILLENEUVE SAINT GEORGES </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.452480000000002,48.744989999986103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940800101</SimpleData>
+		<SimpleData name="Nom_Iris">CENTRE NORD 1</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">23 r Raymond du Temple 94300 VINCENNES </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.438138400000002,48.846513899986341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940800304</SimpleData>
+		<SimpleData name="Nom_Iris">EST 4</SimpleData>
+		<SimpleData name="Nom_base">Pompiers</SimpleData>
+		<SimpleData name="Adresse">1 pl Mar Lyautey 94300 VINCENNES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.4516263,48.846706299986344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940810204</SimpleData>
+		<SimpleData name="Nom_Iris">LA PETITE SAUSSAIE COMMUNE DE PARIS 2</SimpleData>
+		<SimpleData name="Nom_base">Commissariat de Police</SimpleData>
+		<SimpleData name="Adresse">20 av Youri Gagarine 94400 VITRY SUR SEINE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.392093900000002,48.785963399986187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940810205</SimpleData>
+		<SimpleData name="Nom_Iris">PAUL ELUARD</SimpleData>
+		<SimpleData name="Nom_base">Clinique Pasteur</SimpleData>
+		<SimpleData name="Adresse">22 r Petite Saussaie 94400 VITRY SUR SEINE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.388861000000002,48.785547999986207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940810205</SimpleData>
+		<SimpleData name="Nom_Iris">PAUL ELUARD</SimpleData>
+		<SimpleData name="Nom_base">Sapeurs-Pompiers</SimpleData>
+		<SimpleData name="Adresse">2 r Meissen 94400 VITRY SUR SEINE </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.3886323,48.787960599986206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bases_iris">
+		<SimpleData name="DComIris">940810212</SimpleData>
+		<SimpleData name="Nom_Iris">LE COTEAU</SimpleData>
+		<SimpleData name="Nom_base">Clinique des Noriets</SimpleData>
+		<SimpleData name="Adresse">12 r Noriets 94408 VITRY SUR SEINE CEDEX </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.38163,48.794255999986206</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
